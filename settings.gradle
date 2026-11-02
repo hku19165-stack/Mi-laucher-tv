@@ -1,0 +1,2 @@
+rootProject.name = "MiTVWarmLauncher"
+include ':app'
